@@ -1,0 +1,3 @@
+**Bluetooth Beschreibung**
+https://de.wikipedia.org/wiki/Bluetooth
+https://learn.sparkfun.com/tutorials/bluetooth-basics
